@@ -329,3 +329,20 @@ button:hover {
     justify-content: center;
     align-items: center;
 }
+<section class="selection-section">
+
+  <div class="card">
+    <a href="booking-artists.html">
+      <img src="images/artist.jpg" alt="Artists">
+      <h2>Artists</h2>
+    </a>
+  </div>
+
+  <div class="card">
+    <a href="booking-venues.html">
+      <img src="images/venue.jpg" alt="Venues">
+      <h2>Venues</h2>
+    </a>
+  </div>
+
+</section>
